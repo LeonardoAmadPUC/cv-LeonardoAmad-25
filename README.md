@@ -29,7 +29,7 @@ Como usar
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/seu-usuario/cv-LeonardoAmad-25
 
 
 Abra o arquivo index.html em seu navegador favorito
